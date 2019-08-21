@@ -1,6 +1,6 @@
 html {
     font-family: $default-font;
-    font-size: $font-size;
+    font-size: $font-size * 1px;
     line-height: $line-height;
     background: $white;
     color:$gray-10;
@@ -23,8 +23,8 @@ body {
 
 .container{
     box-sizing    : border-box;
-    padding-left  : $line-height *3;
-    padding-right : $line-height *3;
+    padding-left  : $line-height *5;
+    padding-right : $line-height *5;
    
 }
 
@@ -44,9 +44,8 @@ body {
 h1 {
     color: $black;
     font-weight: 700;
-    font-size: $h1-size;
-    line-height: $line-height *2;
-    margin-left: $h1-size/-22;
+    font-size: em($h1-size);
+    line-height: $line-height *3;
     margin-bottom: $line-height ;
     word-break: break-word
 }
@@ -54,25 +53,22 @@ h1 {
 h2 {
     color: $black;
     font-weight: 700;
-    font-size: $h2-size;
+    font-size: em($h2-size);
     line-height: $line-height *2;
-    margin-left: $h2-size/-26;
     margin-bottom: $line-height ;
 }
 
 h3 {
     color: $black;
     font-weight: 700;
-    font-size: $h3-size;
-    padding-top: ($baseline *0.75);
-    padding-bottom: ($baseline *0.25);
+    font-size: em($h3-size);
     margin-bottom: $baseline ;
 }
 
 h4 {
     color: $black;
     font-weight: 700;
-    font-size: $h4-size;
+    font-size: em($h4-size);
 }
 
 p{

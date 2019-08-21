@@ -345,7 +345,7 @@ template {
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
-  line-height: 24px;
+  line-height: 25.88854px;
   background: white;
   color: #2e2e31;
   -webkit-text-size-adjust: 100%;
@@ -367,8 +367,8 @@ body {
 .container {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding-left: 72px;
-  padding-right: 72px;
+  padding-left: 129.44272px;
+  padding-right: 129.44272px;
 }
 
 .box {
@@ -379,47 +379,43 @@ body {
 
 @media only screen and (max-width: 600px) {
   .container {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 25.88854px;
+    padding-right: 25.88854px;
   }
 }
 
 h1 {
   color: #1d1d21;
   font-weight: 700;
-  font-size: 2.8rem;
-  line-height: 48px;
-  margin-left: -0.12727rem;
-  margin-bottom: 24px;
+  font-size: 4.23607em;
+  line-height: 77.66563px;
+  margin-bottom: 25.88854px;
   word-break: break-word;
 }
 
 h2 {
   color: #1d1d21;
   font-weight: 700;
-  font-size: 2.2rem;
-  line-height: 48px;
-  margin-left: -0.08462rem;
-  margin-bottom: 24px;
+  font-size: 2.61803em;
+  line-height: 51.77709px;
+  margin-bottom: 25.88854px;
 }
 
 h3 {
   color: #1d1d21;
   font-weight: 700;
-  font-size: 1.4rem;
-  padding-top: 9px;
-  padding-bottom: 3px;
-  margin-bottom: 12px;
+  font-size: 1.61803em;
+  margin-bottom: 12.94427px;
 }
 
 h4 {
   color: #1d1d21;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1em;
 }
 
 p {
-  margin-bottom: 12px;
+  margin-bottom: 12.94427px;
   margin-top: 0;
 }
 
@@ -437,8 +433,8 @@ img,
 img:first-child,
 img:last-child {
   display: block;
-  margin-top: 12px;
-  margin-bottom: 12px;
+  margin-top: 12.94427px;
+  margin-bottom: 12.94427px;
   max-width: 100%;
 }
 
@@ -447,7 +443,7 @@ img:only-child {
 }
 
 * + img {
-  margin-top: -12px;
+  margin-top: -12.94427px;
 }
 
 img.cover,
@@ -489,7 +485,7 @@ ol > li:before {
   --width: 2em;
   left: calc(-1*var(--width));
   width: var(--width);
-  height: 24px;
+  height: 25.88854px;
   text-align: left;
 }
 
@@ -564,26 +560,26 @@ img.right.bottom {
 }
 
 .padding1 {
-  padding: 24px;
+  padding: 25.88854px;
 }
 
 .padding2 {
-  padding: 48px;
+  padding: 51.77709px;
 }
 
 .padding3 {
-  padding: 72px;
+  padding: 77.66563px;
 }
 
 .padding4 {
-  padding: 96px;
+  padding: 103.55418px;
 }
 
 .padding5 {
-  padding: 120px;
-  padding: 144px;
-  padding: 168px;
-  padding: 192px;
+  padding: 129.44272px;
+  padding: 155.33126px;
+  padding: 181.21981px;
+  padding: 207.10835px;
 }
 
 .margin0 {
@@ -591,25 +587,25 @@ img.right.bottom {
 }
 
 .margin1 {
-  margin: 24px;
+  margin: 25.88854px;
 }
 
 .margin2 {
-  margin: 48px;
+  margin: 51.77709px;
 }
 
 .margin3 {
-  margin: 72px;
+  margin: 77.66563px;
 }
 
 .margin4 {
-  margin: 96px;
+  margin: 103.55418px;
 }
 
 .margin5 {
-  margin: 120px;
-  margin: 144px;
-  margin: 168px;
-  margin: 192px;
+  margin: 129.44272px;
+  margin: 155.33126px;
+  margin: 181.21981px;
+  margin: 207.10835px;
 }
 /*# sourceMappingURL=master.css.map */
