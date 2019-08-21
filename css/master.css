@@ -345,7 +345,7 @@ template {
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
-  line-height: 25.88854px;
+  line-height: 24px;
   background: white;
   color: #2e2e31;
   -webkit-text-size-adjust: 100%;
@@ -367,8 +367,8 @@ body {
 .container {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding-left: 129.44272px;
-  padding-right: 129.44272px;
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
 .box {
@@ -379,8 +379,8 @@ body {
 
 @media only screen and (max-width: 600px) {
   .container {
-    padding-left: 25.88854px;
-    padding-right: 25.88854px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
@@ -388,8 +388,8 @@ h1 {
   color: #1d1d21;
   font-weight: 700;
   font-size: 4.23607em;
-  line-height: 77.66563px;
-  margin-bottom: 25.88854px;
+  line-height: 72px;
+  margin-bottom: 24px;
   word-break: break-word;
 }
 
@@ -397,15 +397,15 @@ h2 {
   color: #1d1d21;
   font-weight: 700;
   font-size: 2.61803em;
-  line-height: 51.77709px;
-  margin-bottom: 25.88854px;
+  line-height: 48px;
+  margin-bottom: 24px;
 }
 
 h3 {
   color: #1d1d21;
   font-weight: 700;
   font-size: 1.61803em;
-  margin-bottom: 12.94427px;
+  margin-bottom: 12px;
 }
 
 h4 {
@@ -415,7 +415,7 @@ h4 {
 }
 
 p {
-  margin-bottom: 12.94427px;
+  margin-bottom: 12px;
   margin-top: 0;
 }
 
@@ -433,8 +433,8 @@ img,
 img:first-child,
 img:last-child {
   display: block;
-  margin-top: 12.94427px;
-  margin-bottom: 12.94427px;
+  margin-top: 12px;
+  margin-bottom: 12px;
   max-width: 100%;
 }
 
@@ -443,7 +443,7 @@ img:only-child {
 }
 
 * + img {
-  margin-top: -12.94427px;
+  margin-top: -12px;
 }
 
 img.cover,
@@ -485,7 +485,7 @@ ol > li:before {
   --width: 2em;
   left: calc(-1*var(--width));
   width: var(--width);
-  height: 25.88854px;
+  height: 24px;
   text-align: left;
 }
 
@@ -560,26 +560,26 @@ img.right.bottom {
 }
 
 .padding1 {
-  padding: 25.88854px;
+  padding: 24px;
 }
 
 .padding2 {
-  padding: 51.77709px;
+  padding: 48px;
 }
 
 .padding3 {
-  padding: 77.66563px;
+  padding: 72px;
 }
 
 .padding4 {
-  padding: 103.55418px;
+  padding: 96px;
 }
 
 .padding5 {
-  padding: 129.44272px;
-  padding: 155.33126px;
-  padding: 181.21981px;
-  padding: 207.10835px;
+  padding: 120px;
+  padding: 144px;
+  padding: 168px;
+  padding: 192px;
 }
 
 .margin0 {
@@ -587,25 +587,25 @@ img.right.bottom {
 }
 
 .margin1 {
-  margin: 25.88854px;
+  margin: 24px;
 }
 
 .margin2 {
-  margin: 51.77709px;
+  margin: 48px;
 }
 
 .margin3 {
-  margin: 77.66563px;
+  margin: 72px;
 }
 
 .margin4 {
-  margin: 103.55418px;
+  margin: 96px;
 }
 
 .margin5 {
-  margin: 129.44272px;
-  margin: 155.33126px;
-  margin: 181.21981px;
-  margin: 207.10835px;
+  margin: 120px;
+  margin: 144px;
+  margin: 168px;
+  margin: 192px;
 }
 /*# sourceMappingURL=master.css.map */
